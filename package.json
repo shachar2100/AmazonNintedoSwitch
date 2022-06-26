@@ -1,0 +1,18 @@
+{
+  "name": "web_scraping_amazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "cron": "^2.0.0",
+    "nodemailer": "^6.7.5",
+    "puppeteer": "^15.0.0"
+  }
+}
